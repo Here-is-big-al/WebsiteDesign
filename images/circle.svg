@@ -1,0 +1,79 @@
+<svg
+   width="200mm"
+   height="300mm"
+   viewBox="0 0 200 300"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1172">
+      <stop
+         style="stop-color:#a02c2c;stop-opacity:1;"
+         offset="0"
+         id="stop1168" />
+      <stop
+         style="stop-color:#a02c2c;stop-opacity:0.10416666;"
+         offset="1"
+         id="stop1170" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1162">
+      <stop
+         style="stop-color:#4b8d39;stop-opacity:0;"
+         offset="0"
+         id="stop1160" />
+      <stop
+         style="stop-color:#4b8d39;stop-opacity:1;"
+         offset="0.52027023"
+         id="stop1158" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient1162"
+       id="linearGradient1164"
+       x1="69.780006"
+       y1="133.64999"
+       x2="176.136"
+       y2="133.64999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0060552,0,0,1.0060552,-8.2585625,13.758728)" />
+    <linearGradient
+       xlink:href="#linearGradient1172"
+       id="linearGradient1174"
+       x1="69.780006"
+       y1="133.64999"
+       x2="176.136"
+       y2="133.64999"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.0060552,0,0,1.0060552,-8.2585625,13.758728)" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-15.444,1.782)">
+    <circle
+       style="fill:url(#linearGradient1164);fill-opacity:1;stroke:url(#linearGradient1174);stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+       id="path788"
+       cx="115.444"
+       cy="148.218"
+       r="51.990917" />
+    <path
+       style="fill:#4b8d39;fill-opacity:1;stroke:#a02c2c;stroke-width:2.96561;stroke-dasharray:none;stroke-opacity:0.55"
+       d="m 115.444,97.718 c 0,98.67815 0,101 0,101 z"
+       id="path2066" />
+  </g>
+  <g
+     id="layer2">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#a02c2c;stroke-width:0;stroke-dasharray:none;stroke-opacity:0"
+       id="rect5078"
+       width="37.88068"
+       height="4.5457788"
+       x="-36.928333"
+       y="-181.21935"
+       transform="matrix(-0.70671381,0.70749953,-0.71037291,-0.70382549,0,0)" />
+  </g>
+</svg>
