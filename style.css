@@ -1,13 +1,16 @@
+body {
+  background-color: rgb(64, 213, 174);
+  background-color: rgb(64, 213, 174, 0.2);
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
 .topOfPage {
-  width: 100%;
+  width: 103.5%;
   position: relative;
   text-align: center;
   color: black;
   margin-top: -8px;
-}
-
-#topOfPage img {
-  display: block;
+  margin-inline-start: -2%;
 }
 
 .titleH1 {
@@ -16,5 +19,21 @@
   position: absolute;
   top: -15%;
   translate: translate(-50%, -50%);
-  font-family: Georgia, serif;
+  font-family: Georgia, sans-serif;
+}
+
+.bottomOfPage {
+  width: 103.5%;
+  position: relative;
+  text-align: center;
+  color: black;
+  margin-inline-start: -2%;
+}
+
+.copyright {
+  font-size: 3vw;
+  width: 100%;
+  position: absolute;
+  top: 0%;
+  translate: translate(-50%, -50%);
 }
