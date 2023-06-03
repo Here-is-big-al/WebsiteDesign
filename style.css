@@ -1,0 +1,20 @@
+.topOfPage {
+  width: 100%;
+  position: relative;
+  text-align: center;
+  color: black;
+  margin-top: -8px;
+}
+
+#topOfPage img {
+  display: block;
+}
+
+.titleH1 {
+  font-size: 2.5vw;
+  width: 100%;
+  position: absolute;
+  top: -15%;
+  translate: translate(-50%, -50%);
+  font-family: Georgia, serif;
+}
